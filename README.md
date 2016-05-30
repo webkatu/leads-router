@@ -102,6 +102,7 @@ $ npm install weakmap
 ## Author
 
 Twitter [@vinyufi](https://twitter.com/vinyufi)
+
 Blog [webkatu.com](http://www.webkatu.com)
 
 
