@@ -25,7 +25,7 @@ The usage is almost the same as [leads.js](https://github.com/webkatu/leads). Ho
 
 ```
 $ npm install leads-router # for browserify
-$ git clone https://github.com/webkatu/leads.js
+$ git clone https://github.com/webkatu/leads-router
 ```
 
 ```html
