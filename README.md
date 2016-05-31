@@ -15,11 +15,11 @@ router.dispatch('/', 'get'); // or router.get('/');
 
 ## Description
 
-It has been reduced unnecessary function from [leads.js](https://github.com/webkatu/leads).
+It has been reduced unnecessary function from [leads.js](https://github.com/webkatu/leads.js).
 
 If you suffice leads-router, you should use it.
 
-The usage is almost the same as [leads.js](https://github.com/webkatu/leads). However, you can not use part of methods of [leads.js](https://github.com/webkatu/leads).
+The usage is almost the same as [leads.js](https://github.com/webkatu/leads.js). However, you can not use part of methods of [leads.js](https://github.com/webkatu/leads.js).
 
 ## Installation
 
@@ -101,9 +101,8 @@ $ npm install weakmap
 
 ## Author
 
-Twitter [@vinyufi](https://twitter.com/vinyufi)
-
-Blog [webkatu.com](http://www.webkatu.com)
+* Twitter [@vinyufi](https://twitter.com/vinyufi)
+* Blog [webkatu.com](http://www.webkatu.com)
 
 
 ## License
