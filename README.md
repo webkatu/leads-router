@@ -1,6 +1,6 @@
 # leads-router
 
-A minimal routing library of [leads.js](https://github.com/webkatu/leads).
+A minimal routing library of [leads.js](https://github.com/webkatu/leads.js).
 
 ```javascript
 var router = leads.Router();
